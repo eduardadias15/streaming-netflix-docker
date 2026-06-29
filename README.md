@@ -14,11 +14,11 @@ O ambiente foi configurado em uma Máquina Virtual com Debian 12.
 
 ## Tecnologias Utilizadas
 | Ferramenta | Versão | Função |
-
-| Docker Engine | 29.5.3 | Motor de execução de containers ||
-| Docker Compose | v5.1.4 | Orquestração dos serviços ||
-| Jellyfin | 10.11.11 | Interface de streaming estilo Netflix ||
-| Portainer CE | 2.x | Gerenciamento visual dos containers ||
+|---|---|---|
+| Docker Engine | 29.5.3 | Motor de execução de containers |
+| Docker Compose | v5.1.4 | Orquestração dos serviços |
+| Jellyfin | 10.11.11 | Interface de streaming estilo Netflix |
+| Portainer CE | 2.x | Gerenciamento visual dos containers |
 | Nginx Proxy Manager | latest | Proxy reverso e acesso web |
 
 ## Estrutura do Projeto
